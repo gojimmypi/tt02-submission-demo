@@ -14,11 +14,11 @@ project:
 #
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation: 
-  author:       ""      # Your name
-  discord:      ""      # Your discord handle
-  title:        ""      # Project title
-  description:  ""      # Short description of what your project does
-  how_it_works: ""      # Longer description of how the project works
+  author:       "gojimmypi"      # Your name
+  discord:      "gojimmypi"      # Your discord handle
+  title:        "TinyTapeoutUART"      # Project title
+  description:  "my first Tiny Tapeout"      # Short description of what your project does
+  how_it_works: "well, it is a UART"      # Longer description of how the project works
   how_to_test:  ""      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   external_hw:  ""      # Describe any external hardware needed
   language:     "wokwi" # other examples include Verilog, Amaranth, VHDL, etc
